@@ -27,6 +27,8 @@
 
 ---
 
+### 📔 [ Моё портфолио ]( https://github.com/KaraliovaQA/Portfolio )
+
 ### 📁 Тестовая документация:
 
 <div>
