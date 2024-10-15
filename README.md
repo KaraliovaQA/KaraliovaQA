@@ -23,7 +23,7 @@
 
 ---
 
-### 👩‍💻 [ Моё резюме на русском ]( https://drive.google.com/file/d/1bw2faCjUEZnaKTMqRunTs6eC8uy9IN_S/view?usp=sharing )
+### 👩‍💻 [ Моё резюме на русском языке ]( https://drive.google.com/file/d/1bw2faCjUEZnaKTMqRunTs6eC8uy9IN_S/view?usp=sharing )
 
 ---
 
