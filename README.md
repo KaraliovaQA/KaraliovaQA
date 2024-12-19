@@ -23,11 +23,15 @@
 
 ---
 
-### 👩‍💻 [ Моё резюме на русском языке ]( https://drive.google.com/file/d/1bw2faCjUEZnaKTMqRunTs6eC8uy9IN_S/view?usp=sharing )
+### 👩‍💻 [ Резюме РУ ]( [https://drive.google.com/file/d/1bw2faCjUEZnaKTMqRunTs6eC8uy9IN_S/view?usp=sharing](https://drive.google.com/file/d/1d8sqBfded93j7HmeTPsHvaaCfYGNGuL8/view?usp=sharing) )
 
 ---
 
-### 📔 [ Моё портфолио ]( https://github.com/KaraliovaQA/Portfolio )
+### 👩‍💻 [ Resume EN ]( [https://drive.google.com/file/d/1bw2faCjUEZnaKTMqRunTs6eC8uy9IN_S/view?usp=sharing](https://drive.google.com/file/d/1d8sqBfded93j7HmeTPsHvaaCfYGNGuL8/view?usp=sharing) )
+
+---
+
+### 📔 [ Портфолио ]( https://github.com/KaraliovaQA/Portfolio )
 
 ---
 
