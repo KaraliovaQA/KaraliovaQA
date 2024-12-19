@@ -23,7 +23,7 @@
 
 ---
 
-### 👩‍💻 [ Резюме РУ ]( [https://drive.google.com/file/d/1bw2faCjUEZnaKTMqRunTs6eC8uy9IN_S/view?usp=sharing](https://drive.google.com/file/d/1d8sqBfded93j7HmeTPsHvaaCfYGNGuL8/view?usp=sharing) )
+### 👩‍💻 [ Резюме РУ ]( https://drive.google.com/file/d/1d8sqBfded93j7HmeTPsHvaaCfYGNGuL8/view?usp=sharing )
 
 ---
 
